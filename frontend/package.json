@@ -1,0 +1,9 @@
+{
+  "name": "CoupleApp",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "react": "18.1.0",
+    "react-native": "0.72.0"
+  }
+}
